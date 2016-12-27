@@ -1,2 +1,2 @@
 # Learning
-It's for personal study
+It's for personal study on tensorflow.
